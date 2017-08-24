@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\10370224\jb_mad\AndroidStudioProjects\Lab3b_PermissionsLab\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\10370224\jb_mad\AndroidStudioProjects\Lab3b_PermissionsLab\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_950001cdd63a386da6f31859a306b55e51959cb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\10370224\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\10370224\jb_mad\AndroidStudioProjects\Lab3b_PermissionsLab\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_68290b5a932818de7c630312ea9a1d258bc46263.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\10370224\jb_mad\AndroidStudioProjects\Lab3b_PermissionsLab\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f668789cb565ab829e516561adbf4b29f9c16879">
+        <dex dex="C:\Users\10370224\jb_mad\AndroidStudioProjects\Lab3b_PermissionsLab\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bc476dfa19152c847ea7e62eb33ca3cdc817c895\classes.dex" />
+    </item>
+
+</items>
