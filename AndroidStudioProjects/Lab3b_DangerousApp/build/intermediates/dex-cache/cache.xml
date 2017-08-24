@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\10370224\jb_mad\AndroidStudioProjects\Lab3b_DangerousApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d5539cfe65b0a559d37985ba17bb7e2fecf01f">
+        <dex dex="C:\Users\10370224\jb_mad\AndroidStudioProjects\Lab3b_DangerousApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_77133de6fd2a17feaadc65e23c2e099440da22df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\10370224\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\10370224\jb_mad\AndroidStudioProjects\Lab3b_DangerousApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_68290b5a932818de7c630312ea9a1d258bc46263\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\10370224\jb_mad\AndroidStudioProjects\Lab3b_DangerousApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\10370224\jb_mad\AndroidStudioProjects\Lab3b_DangerousApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f45a723b4c4f51e58909b7901343ff81ef664e2c\classes.dex" />
+    </item>
+
+</items>
