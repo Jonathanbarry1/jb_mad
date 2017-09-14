@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="info">More Information</string>
+    <string name="visit">Visit Moma!</string>
+</resources>
