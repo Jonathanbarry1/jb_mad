@@ -1,0 +1,37 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MapsActivity" >
+
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:map="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.example.yx_jo.dublinbikesapp.MapsActivity" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textViewChoose"
+            android:layout_width="268dp"
+            android:layout_height="59dp"
+            android:layout_gravity="center_horizontal|center"
+            android:background="@drawable/common_google_signin_btn_icon_dark_normal_background"
+            android:textAlignment="center"
+            android:textColor="#040404"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:typeface="sans" />
+    </LinearLayout>
+
+
+</FrameLayout>
+

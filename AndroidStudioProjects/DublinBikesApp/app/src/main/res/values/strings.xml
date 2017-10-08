@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DublinBikesApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="logout">Logout</string>
+    <string name="add_journey">Add a journey</string>
+    <string name="view_journeys">View Journeys</string>
+    <string name="give_up">There is no more help!</string>
+    <string name="title_activity_historical_journey_maps">Map</string>
+    <string name="home">Home</string>
+    <string name="StartStation">Start point:</string>
+    <string name="FinishStation">End point:</string>
+    <string name="StationChooseStart">Please choose the station you started from</string>
+    <string name="StationChooseEnd">Please select the station you finished at</string>
+    <string name="welcome">Welcome</string>
+    <string name="choose_stations">Choose stations</string>
+    <string name="add_photo">Add photo</string>
+    <string name="add_the_journey">Add the journey</string>
+    <string name="user_login">User Login</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="log_in">Log in</string>
+    <string name="not_have_an_account_sign_up_here">Not have an account? Sign up here.</string>
+    <string name="user_registration">User Registration</string>
+    <string name="register_user">Register User</string>
+    <string name="already_registered_sign_in_here">Already registered? Sign in here</string>
+    <string name="enter_your_full_name">Enter your full name</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="save_information">Save information</string>
+    <string name="please_click_on_any_journey_to_view_on_the_map">Please click on any journey to view on the map</string>
+</resources>

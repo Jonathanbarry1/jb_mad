@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FireBaseAuthTest</string>
+    <string name="user_login">User Login</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="log_in">Log in</string>
+    <string name="not_have_an_account_sign_up_here">Not have an account? Sign up here.</string>
+    <string name="user_registration">User Registration</string>
+    <string name="register_user">Register User</string>
+    <string name="already_registered_sign_in_here">Already registered? Sign in here</string>
+    <string name="enter_your_full_name">Enter your full name</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="save_information">Save information</string>
+    <string name="CharacterName">Character Name:</string>
+    <string name="Race">Race:</string>
+</resources>

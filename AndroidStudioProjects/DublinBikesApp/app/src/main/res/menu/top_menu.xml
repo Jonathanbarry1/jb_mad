@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/home"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/updateProfile"
+        android:title="@string/update_profile"/>
+    <item
+        android:id="@+id/viewJourneys"
+        android:title="@string/view_journeys"/>
+    <item
+        android:id="@+id/addJourney"
+        android:title="@string/add_journey">
+    </item>
+    <item
+        android:id="@+id/logout"
+        android:title="@string/logout">
+    </item>
+
+</menu>
