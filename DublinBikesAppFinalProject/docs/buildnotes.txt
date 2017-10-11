@@ -1,0 +1,6 @@
+26/09/17  - Firebase authentication, database, camera activity and uploading to firebase
+27/09/17 – Get maps activity, JSON data successfully rendering as text, begin to save things in firebase
+28/09/17 – Getting markers on maps (JSON data)
+29/09/17 – Saving markers
+30/09/17 - Historical journeys with maps, image association
+01/10/2017 – Strings, UI design.

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "620254325930",
+    "firebase_url": "https://dublin-bikes-app.firebaseio.com",
+    "project_id": "dublin-bikes-app",
+    "storage_bucket": "dublin-bikes-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620254325930:android:0a1385a9a3d6e3fa",
+        "android_client_info": {
+          "package_name": "com.example.yx_jo.dublinbikesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620254325930-mvae4tmb9tkfb594972usve3q00ohhu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcF4sikAfp2tQigvNPhku1_8KjB5ZYhKQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
